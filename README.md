@@ -45,7 +45,7 @@ Execute the program
         <th>8</th>
         </tr>
         <tr>
-   <td>MONDAY</td>
+        <td>MONDAY</td>
         <td>Break</td>
         <td>Break</td>
         <td>19AI302/Muthukumar</td>
@@ -66,7 +66,7 @@ Execute the program
         <td>Break</td>
         <td>Break</td>
         </tr>
-<tr>
+        <tr>
         <td>WEDNESDAY</td>
         <td>19AI302/Muthukumar</td>
         <td>19AI302/Muthukumar</td>
@@ -104,4 +104,10 @@ Execute the program
 </html>
 ```
 # OUPUT
+
+
 ![output](./output.jpg)
+
+# result
+
+The timetbale is diplayed
